@@ -1,0 +1,4 @@
+interface Spender 
+{
+void spendLoads ();
+}
